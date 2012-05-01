@@ -8,7 +8,7 @@ import (
 	"unicode"
 )
 
-// Given an unicode encoded string, returns the
+// Given an unicode encoded string, returns
 // another string with non-ASCII characters replaced
 // with their closest ASCII counterparts.
 // e.g. Unicode("áéíóú") => "aeiou" 
