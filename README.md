@@ -3,7 +3,7 @@ Unicode transliterator (also known as unidecode) for Go
 
 Use the following command to install gounidecode
 
-go get http://github.com/fiam/gounidecode/unidecode
+go get -u github.com/fiam/gounidecode/unidecode
 
 Example usage
 =============
